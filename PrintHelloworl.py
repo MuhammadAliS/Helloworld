@@ -1,2 +1,4 @@
 #this programe written by Muhammad Ali S
-print("Hello world..")
+n=int(input("Enter a number:"))
+for i in range(0,n):
+  print("Hello world...")
